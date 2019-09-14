@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    text-decoration: none;
+}
+.navbar-brand {
+    margin-left:15%; 
+}
+#navbarNav {
+    margin-left:532px; 
+}
+.nav-link {
+    margin-left: 40px;
+}
+.navbar navbar-expand-lg navbar-light bg-light {
+    background: none;
+}
+#nav{
+    background-color: none;
+}
+main{
+    text-align: center;
+    width: 100% ;
+    background-image: url('header.jpg');
+    padding:150px;
+    background-position: top;
+    color: white;
+}
+main h1 {
+font-size: 100px;
+}
+main p {
+    margin: 20px;
+}
+.click {
+    background-color: #A9CC49;
+    width: 150px;
+    border-radius: 20px;
+    margin: auto;
+    padding: 10px;
+    color: white;
+}
+.art{
+    color: white;
+    background-color: #A9CC49;
+    text-align: center;
+    padding: 40px;
+}
+.art h3{
+    margin: 30px;
+}
+article{
+    position: relative;
+}
+
+article img{
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute; 
+    top: 82px;
+    left: 98px;
+}
+article section{
+    margin-left:  437px;
+}
+.pra {
+    position: absolute;
+    top: 100px;
+}
+.black { 
+    position: relative;
+    padding: 170px;
+    margin-top:345px; 
+    color: white;
+    background-color: #222222;
+}
+.black section {
+    position: absolute;
+    top: 100px;
+
+}
+.black img {
+    position: absolute;
+    width: 300px;
+    border-radius: 50%;
+    top: 60px;
+    right: 330px;
+
+
+}
+#test {
+    color:#222222;
+    background: white;
+    width: 88px;
+    border-radius: 20px;
+     padding: 10px;
+}
+.imgs{
+    position: relative;
+} 
+.imgs img {
+
+    float:left;
+    width: 449px;
+    height: 150px;
+}
+section ul {
+     position: absolute;
+
+}
+section ul li{
+    display: inline-block;
+    color: white;
+    z-index:1;
+    font-size: 50px;
+    margin-left: 177px;
+    margin-top: 50px;
+    
+}
+.pin {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+.contact {
+    margin-top: 10px;
+    background-color: #A9CC49;
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+footer{
+    text-align: center;
+    padding: padding: 25px;;
+}
